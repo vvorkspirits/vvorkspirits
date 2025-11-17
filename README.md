@@ -39,6 +39,8 @@ html,js,py,lua,godot,robloxstudio
 <a href="https://linkedin.com/in/https://www.linkedin.com/ezellmatt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/ezellmatt/" height="30" width="40" /></a>
 </p>
 
+---
+
 ## Projects
 | Option | Description |
 | ------ | ----------- |
@@ -59,8 +61,6 @@ html,js,py,lua,godot,robloxstudio
 | data   | path to data files to supply the data that will be passed into templates. |
 | engine | engine to be used for processing templates. Handlebars is the default. |
 | ext    | extension to be used for dest files. |
-
-
 
 
 
