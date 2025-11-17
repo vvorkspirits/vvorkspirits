@@ -64,7 +64,3 @@ html,js,py,lua,godot,robloxstudio
 
 
 
-<img width="474" height="413" alt="image" src="https://github.com/user-attachments/assets/88319752-cb01-49d4-a2a3-7657a3bc8fa8" />
-
-
-
