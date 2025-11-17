@@ -1,7 +1,25 @@
 # vvorkspirits.github.io
-theme: jekyll-theme-merlot
+
 ## About Me
-[LinkedIn](https://www.linkedin.com/ezellmatt/)
+
+I'm **vvorkspirits**.
+
+Focusing on personal projects and contributing to open-source initiatives. I believe in sharing the knowledge and advancing towards a bright future.
+
+## Skills & Technologies
+
+html,js,py,lua,godot,robloxstudio
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vvorkspirits&show_icons=true&theme=dark)
+
+## Recent Activity
+
+- **Pushed to [vvorkspirits](https://github.com/vvorkspirits/vvorkspirits)** on Nov 17, 2025  
+- **Created a new branch in [vvorkspirits](https://github.com/vvorkspirits/vvorkspirits)** on Nov 17, 2025  
+- **Updated README in [vvorkspirits](https://github.com/vvorkspirits/vvorkspirits)** on Nov 17, 2025
+
    
 > Blockquotes can also be nested...
 >> ...by using additional greater-than signs right next to each other...
@@ -16,8 +34,25 @@ theme: jekyll-theme-merlot
     - Nulla volutpat aliquam velit
 + Very easy!
 
+## Social Links
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/ezellmatt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/ezellmatt/" height="30" width="40" /></a>
+</p>
+
 ## Projects
+| Option | Description |
+| ------ | ----------- |
+| data   | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext    | extension to be used for dest files. |
+
 ## Skills
+| Option | Description |
+| ------ | ----------- |
+| data   | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext    | extension to be used for dest files. |
+
 ## Reading List
 | Option | Description |
 | ------ | ----------- |
@@ -28,35 +63,6 @@ theme: jekyll-theme-merlot
 
 
 
-
-
-## Code
-
-Inline `code`
-
-Indented code
-
-    // Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
-
-
-Block code "fences"
-
-```
-Sample text here...
-```
-
-Syntax highlighting
-
-``` js
-var foo = function (bar) {
-  return bar++;
-};
-
-console.log(foo(5));
-```
 
 <img width="474" height="413" alt="image" src="https://github.com/user-attachments/assets/88319752-cb01-49d4-a2a3-7657a3bc8fa8" />
 
