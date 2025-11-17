@@ -16,6 +16,7 @@ html,js,py,lua,godot,roblox,blender,etc.
 
 ## Recent Activity
 
+- **Reworked the [resume](https://www.canva.com/design/DAG4S5qOhTQ/wbs2GYN2D6p60gbI4DKWtA/edit?utm_content=DAG4S5qOhTQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)** on Nov 17, 2025
 - **Pushed to [vvorkspirits](https://github.com/vvorkspirits/vvorkspirits)** on Nov 17, 2025  
 - **Created a new branch in [vvorkspirits](https://github.com/vvorkspirits/vvorkspirits)** on Nov 17, 2025  
 - **Updated README in [vvorkspirits](https://github.com/vvorkspirits/vvorkspirits)** on Nov 17, 2025
